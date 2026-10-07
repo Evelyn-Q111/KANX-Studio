@@ -1,5 +1,5 @@
 # 🌌 KANX-Studio
-首个为 Kolmogorov-Arnold Networks (KAN) 打造的生产级网络工程与智能诊断平台，让 KAN 从“研究玩具”真正变成“可用工具”。
+首个为 Kolmogorov-Arnold Networks (KAN) 打造的生产级网络工程与智能诊断平台，让 KAN 从“研究玩具”变成“可用工具”。
 
 ## 📖 目录
 - [🎯 核心特性](#-核心特性)
