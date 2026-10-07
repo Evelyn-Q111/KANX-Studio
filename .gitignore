@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+meta_dataset.csv
+meta_dataset_v2.csv
+deployment_package/
+.env
+venv/
